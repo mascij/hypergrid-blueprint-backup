@@ -1,6 +1,6 @@
 # HyperGrid Blueprint Backup Tool
 
-This is a simple tool for backing up your library of Blueprints from HyperCloud Portal. It will download all entitled Blueprints for the user, date/time stamp and store them for future import.
+This is an easy tool for backing up your library of Blueprints from HyperCloud Portal. It will download all entitled Blueprints for the user, date/time stamp and store them for future import.
 
 Clone the repo & run:
 
