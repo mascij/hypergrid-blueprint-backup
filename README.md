@@ -4,7 +4,7 @@ This is a simple tool for backing up your library of Blueprints from HyperCloud 
 
 Clone the repo & run:
 
-`./BackupBlueprints.sh <username> <password> <url body>`
+`./BackupBlueprints.sh <username> <password> <url body for HyperCloud Portal>`
   
 For example:
 
